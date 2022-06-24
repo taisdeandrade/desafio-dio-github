@@ -1,4 +1,4 @@
-#Alguns comandos uteis
+# Alguns comandos úteis
 
  - mkdir -> Cria um diretório
  - ls -> lista os itens dentro do diretório
